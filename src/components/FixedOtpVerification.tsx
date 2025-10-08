@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const API_BASE_URL = 'https://09ecf30ac848.ngrok-free.app';
+const API_BASE_URL = 'https://b5eafc07097a.ngrok-free.app';
 
 interface OtpVerificationProps {
   email: string;
